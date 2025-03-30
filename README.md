@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<img align="right" width="400" height="300" src="https://giphy.com/gifs/code-matrix-wallpaper-A06UFEx8jxEwU">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardolemesf/)](https://www.linkedin.com/in/ricardolemesf/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemesricardo93@gmail.com)](mailto:lemesricardo93@gmail.com)
