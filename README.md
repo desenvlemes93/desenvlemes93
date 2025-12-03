@@ -1,53 +1,49 @@
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardolemesf/)](https://www.linkedin.com/in/ricardolemesf/) 
- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lemesricardo93@gmail.com)](mailto:lemesricardo93@gmail.com)
- [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562999467003&text=Oi,%20Tudo%20bem?)](https://api.whatsapp.com/send?phone=5562999467003&text=Oi,%20Tudo%20bem?)
-
-# 🧑‍💻 Ricardo de Sousa Lemes Filho
+🧑‍💻 Ricardo de Sousa Lemes Filho
 
 
-- 💻 Trabalho atualmente com o Delphi, SQL. 
-- 🎓 Sempre buscando novas tecnologias e conhecimento como: PLSQL,  Spring Boot, Flutter, Dart, Delphi.
 
-## 📁 Projetos em Destaque
 
-### [Projeto com varias gerencias de estado com Flutter] (https://github.com/desenvlemes93/gerencia-estado-flutter)
-- Bloc
-- GetX
-- Provider
-- SetStage
 
-### [Vaga de Garagem](https://github.com/desenvlemes93/vaga_garagem_comBloc)
-- Projeto utilizado para vaga de Garagem
 
-###[Backend Feito em Delphi] (https://github.com/desenvlemes93/servidorDelphi)
-- Realizei um Back-end usando Delphi com Horse
+👋 Sobre Mim
 
----
+Sou desenvolvedor de software com experiência sólida em Delphi, SQL e Flutter, atuando em projetos corporativos e sistemas de alta performance.
+Tenho forte interesse em arquitetura de software, otimização de performance e desenvolvimento multiplataforma.
 
-## 💡 Sobre Mim
+🔎 Sempre buscando evoluir com tecnologias como:
+PL/SQL, Spring Boot, Flutter, Dart, Delphi, Firebird, Oracle, SQL Server.
 
-Sou desenvolvedor especializado em:
-- **Flutter**: Navegação, Provider, Bloc, .
-- **Delphi**: Criação e Manutenção de aplicações para sistemas legados e atuais.
-- **Banco de Dados**: Experiência com Oracle, SQLServer, Firebird e PostGreSql, e integrações avançadas.
+🚀 Principais Competências
 
----
-## 🌟 Dê seu Suporte
+Flutter & Dart: Gerência de estado (Provider, Bloc, GetX), navegação, estruturação de projetos.
 
-Se você gostou do meu trabalho, considere dar uma ⭐ nos repositórios e me seguir! Obrigado pela visita! 🙌
+Delphi: Desenvolvimento e manutenção de sistemas legados e atuais, REST com Horse.
 
-<!--
-**lemesricardo93/lemesricardo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Banco de Dados: Oracle, SQL Server, Firebird, PostgreSQL, inclusive com queries otimizadas e integrações avançadas.
 
-Here are some ideas to get you started:
+📁 Projetos em Destaque
+🚦 Gerência de Estado no Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Repositório com exemplos usando diversas abordagens:
+
+Bloc
+
+GetX
+
+Provider
+
+SetState
+
+🔗 Acessar o projeto:
+https://github.com/desenvlemes93/gerencia-estado-flutter
+
+🅿️ Vaga de Garagem — Projeto de Teste Técnico
+
+Aplicação desenvolvida para processo seletivo, com foco em boas práticas e organização.
+
+🖥️ Back-end em Delphi (Horse)
+
+API criada utilizando o framework Horse, aplicando uma arquitetura organizada e extensível.
+
+🔗 Acessar o repositório:
+https://github.com/desenvlemes93/servidorDelphi
